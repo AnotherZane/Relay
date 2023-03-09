@@ -1,6 +1,6 @@
 # relay
 
-A modernized IRC client
+A modernized IRC client. Is a WIP and currently contains some hacky code.
 
 ## Getting Started
 
